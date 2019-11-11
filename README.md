@@ -1,2 +1,3 @@
-# booooop
-bb
+txt1=gg
+* bbbbb *
+*/
